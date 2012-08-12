@@ -25,3 +25,6 @@
 [submodule "bundle/vim-ack"]
 	path = bundle/vim-ack
 	url = https://github.com/mileszs/ack.vim.git
+[submodule "bundle/vim-gundo"]
+	path = bundle/vim-gundo
+	url = http://github.com/sjl/gundo.vim.git
