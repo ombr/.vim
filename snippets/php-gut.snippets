@@ -19,12 +19,18 @@ snippet dfunc
 	$1 function ${2:go}(${3}){
 		${4:return;}
 	}
+snippet dvar
+	/**
+	 * ${4:My Amazing variable} 
+	 * @var ${5:String}
+	 */
+	${3:private} $${1:foo}${2: = null};
 snippet getset
 	public function get${1:Var}(){
 		return $this->${2:var};
 	}
 	public function set$1($$2){
-		$this->$2=$$2;
+		$this->$2 = $$2;
 		return $this;
 	}
 snippet d
