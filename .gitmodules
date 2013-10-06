@@ -52,3 +52,15 @@
 [submodule "bundle/vim-ruby"]
 	path = bundle/vim-ruby
 	url = git://github.com/vim-ruby/vim-ruby.git
+[submodule "bundle/vim-ruby-debugger"]
+	path = bundle/vim-ruby-debugger
+	url = git://github.com/astashov/vim-ruby-debugger.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git@github.com:tpope/vim-rails.git
+[submodule "bundle/vim-yankring"]
+	path = bundle/vim-yankring
+	url = git@github.com:vim-scripts/YankRing.vim.git
+[submodule "bundle/vim-ctrlp.vim"]
+	path = bundle/vim-ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git

@@ -1,7 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='scp://eblog@ftp.eb-log.fr/~/www/boissaye3/'
-let g:netrw_dirhist_2='scp://eblog@ftp.eb-log.fr/~/www/boissaye3/views/'
-let g:netrw_dirhist_3='/home/ombr/public_html/boissaye3/configs'
-let g:netrw_dirhist_4='/home/ombr/public_html/usr/users/examples'
-let g:netrw_dirhist_5='/home/ombr/public_html/usr/users/views'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/ombr/public_html/ago/2skror/custom'
+let g:netrw_dirhist_2='/home/ombr/tmp'
+let g:netrw_dirhist_3='/etc/nginx/sites-enabled'
+let g:netrw_dirhist_4='/home/ombr/public_html/blog/config'
